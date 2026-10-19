@@ -69,6 +69,8 @@ This list collects the best tools that respect these principles -- from note-tak
 | [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) | Command-line task management tool. All data stored in local files. Powerful filtering, reporting, and scripting. | Win/Mac/Linux | Yes |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open-source Notion alternative built with Flutter and Rust. Local-first with optional self-hosted sync. | Win/Mac/Linux/Mobile | Yes |
 
+| [Venu](https://github.com/imnakul/venu---Dynamic-Notch-for-Windows) | Native Windows Dynamic Notch with media controls, desktop notifications, reminders, and AI coding usage views; configuration stays local and no account is required. | Windows | Yes |
+
 ## Communication
 
 | Tool | Description | Platform | Open Source |
